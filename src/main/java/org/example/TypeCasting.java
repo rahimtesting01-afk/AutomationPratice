@@ -18,6 +18,7 @@ public class TypeCasting {
         double d = 3.14;
         char c = 'a';
 
+
         //We have prices in double like (29.9,9.9,15.9) but we need to validate values in int -> this will not work (we will get Compile Time Error)
 
         //We have prices in int like (29,9,15) but we need to validate values in double -> this will work
